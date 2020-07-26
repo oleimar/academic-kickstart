@@ -51,7 +51,7 @@ social:
   link: "mailto:olof.leimar@zoologi.su.se"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.se/citations?user=Go754xMAAAAJ&hl=sv
+  link: https://scholar.google.se/citations?user=Go754xMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/oleimar

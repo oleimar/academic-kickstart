@@ -1,5 +1,5 @@
 ---
-title: "Ecological genetic conflict: Genetic architecture can shift the balance between local adaptation and plasticity"
+title: "Reinforcement learning theory reveals the cognitive requirements for solving the cleaner fish market task"
 authors:
 - Andrés E. Quiñones
 - admin
