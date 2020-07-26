@@ -1,5 +1,9 @@
+# glob patterns for files git should ignore
+.DS_Store
+
 # IDEs
 .idea/
+.vscode
 
 # Hugo
 resources/
