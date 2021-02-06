@@ -19,7 +19,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Royal Society Open Science* **8**, 201213"
 
-publication_short: "*Roy. Soc. Open Sci.* **8**, 201213"
+publication_short: "*R. Soc. Open Sci.* **8**, 201213"
 
 abstract:  The ability to dominate conspecifics and thereby gain access to resources depends on a number of traits and skills. Experience of dominance relationships during development is a potential source of learning such skills. We here study the importance of social experience, aggressiveness and morphological traits for competitiveness in social interactions (contest success) in male domestic fowl (*Gallus gallus domesticus*). We let males grow up either as a single (dominant) male or as an intermediately ranked male in a group of males, and measured their success in duels against different opponents. We found that single-raised males had lower contest success than group-raised males, and that aggression and comb size correlated positively with contest success. This indicates that experience of dominance interactions with other males increases future success in duels. We similarly studied the consequences of growing up as a dominant or subordinate in a pair of males, finding no statistically significant effect of the dominance position on contest success. Finally, we found that males were consistent over time in contest success. We conclude that social experience increases contest success in male domestic fowl, but that certain behavioural and morphological characteristics have an equal or even stronger covariation with contest success.
 
