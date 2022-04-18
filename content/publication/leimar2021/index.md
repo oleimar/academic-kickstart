@@ -15,8 +15,8 @@ publishDate: "2021-03-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Naturalist* **197**(2), 00-00"
-publication_short: "*Am. Nat.* **197**, 00-00"
+publication: "*American Naturalist* **197**(5), 560-575"
+publication_short: "*Am. Nat.* **197**, 560-575"
 
 abstract: Groups of social animals are often organized into dominance hierarchies that are formed through pairwise interactions. There is much experimental data on hierarchies, examining such things as winner, loser, and bystander effects, as well as the linearity and replicability of hierarchies, but there is a lack evolutionary analyses of these basic observations. Here I present a game theory model of hierarchy formation in which individuals adjust their aggressive behavior toward other group members through reinforcement learning. Individual traits such as the tendency to generalize learning between interactions with different individuals, the rate of learning, and the initial tendency to be aggressive are genetically determined and can be tuned by evolution. I find that evolution favors individuals with high social competence, making use of individual recognition, bystander observational learning, and, to a limited extent, generalizing learned behavior between opponents when adjusting their behavior toward other group members. The results are in qualitative agreement with experimental data, for instance, in finding weaker winner effects compared to loser effects.
 

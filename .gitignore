@@ -1,5 +1,6 @@
 # glob patterns for files git should ignore
 .DS_Store
+.hugo_build.lock
 
 # IDEs
 .idea/
