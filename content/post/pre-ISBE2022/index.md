@@ -40,7 +40,7 @@ The meeting will deal with a number of topics, where each topic has a short intr
 * 10:15 - 11:00 **Markets and mechanisms**, Zegni Triki
 * 11:00 - 11:45 **Game theory in social evolution**, Stu West
 * 11:45 - 13:15 **Lunch**, a short walk to Stora Skuggan restaurant
-* 13:15 - 14:00 **Personality variation**, Niels Dingemanse
+* 13:15 - 14:00 **Behavioural ecology and quantitative genetics theory**, Niels Dingemanse
 * 14:00 - 14:45 **Reproductive decisions and parental care**, Peter Buston and Andras Kosztolanyi
 * 14:45 - 15:30 **Social structure (social organisation and social dominance)**, Alex Jordan and Olof Leimar
 * 15:30 - 16:00 **Any topic that participants want to discuss**
