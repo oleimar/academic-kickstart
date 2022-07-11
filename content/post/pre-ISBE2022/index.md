@@ -16,6 +16,8 @@ The aim of the pre-ISBE 2022 symposium is to bring together empiricists that stu
 
 **Place:** Stockholm University, biology lecture hall P216 (see map). To get from the ISBE congress venue, or from one of the centrally located hotels, take the metro. For instance, from the main central metro station ("T-Centralen") to Stockholm University ("Universitetet"), take line 14 towards "Mörby Centrum" and get off at "Universitetet" (4 stops). See map for how to get from the metro station to the lecture hall (P216) for the symposium.
 
+**Metro fares:** For information click the Fares \& tickets link at the [Metro information site](https://sl.se/en/in-english) or read about using a contactless credit card for a single fare. The easiest is to buy a single fare (for 39 SEK), valid for 75 min, by "tapping" your contactless credit card when getting into the metro station. You can also download an app for your smartphone and use that to buy a single fare (see above link).
+
 **Organisers:** Olof Leimar (<olof.leimar@zoologi.su.se>) and John McNamara (<john.mcnamara@bristol.ac.uk>)
 
 ### Examples of issues to discuss
